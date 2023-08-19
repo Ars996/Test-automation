@@ -1,5 +1,5 @@
 
-аrom checkout import ssh_checkout
+from checkout import ssh_checkout
 from sshcheckers import ssh_checkout, upload_files
 import yaml
 
